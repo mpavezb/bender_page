@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<directory path="E:\Simulator\Simulator\TEST\04">
+	<picture name="00001_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="818" y="380" />
+			<right_eye x="726" y="378" />
+			<noose_tip x="782" y="412" />
+			<mouth_center x="780" y="460" />
+		</face>
+	</picture>
+	<picture name="00002_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="546" y="382" />
+			<right_eye x="442" y="384" />
+			<noose_tip x="496" y="412" />
+			<mouth_center x="490" y="472" />
+		</face>
+	</picture>
+	<picture name="00003_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="448" y="466" />
+			<right_eye x="358" y="476" />
+			<noose_tip x="386" y="530" />
+			<mouth_center x="396" y="570" />
+		</face>
+	</picture>
+	<picture name="00004_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="498" y="406" />
+			<right_eye x="394" y="418" />
+			<noose_tip x="434" y="474" />
+			<mouth_center x="444" y="530" />
+		</face>
+	</picture>
+	<picture name="00005_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="992" y="600" />
+			<right_eye x="850" y="594" />
+			<noose_tip x="926" y="662" />
+			<mouth_center x="916" y="726" />
+		</face>
+	</picture>
+	<picture name="00006_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="1008" y="498" />
+			<right_eye x="870" y="498" />
+			<noose_tip x="942" y="568" />
+			<mouth_center x="942" y="648" />
+		</face>
+	</picture>
+	<picture name="00007_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="796" y="484" />
+			<right_eye x="670" y="486" />
+			<noose_tip x="734" y="544" />
+			<mouth_center x="736" y="608" />
+		</face>
+	</picture>
+	<picture name="00008_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="846" y="478" />
+			<right_eye x="742" y="482" />
+			<noose_tip x="796" y="548" />
+			<mouth_center x="796" y="604" />
+		</face>
+	</picture>
+	<picture name="00009_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="466" y="454" />
+			<right_eye x="360" y="452" />
+			<noose_tip x="404" y="516" />
+			<mouth_center x="412" y="572" />
+		</face>
+	</picture>
+	<picture name="00010_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="422" y="396" />
+			<right_eye x="308" y="404" />
+			<noose_tip x="336" y="432" />
+			<mouth_center x="338" y="498" />
+		</face>
+	</picture>
+	<picture name="00011_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="986" y="454" />
+			<right_eye x="844" y="452" />
+			<noose_tip x="920" y="526" />
+			<mouth_center x="918" y="600" />
+		</face>
+	</picture>
+	<picture name="00012_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="770" y="430" />
+			<right_eye x="676" y="432" />
+			<noose_tip x="722" y="478" />
+			<mouth_center x="724" y="534" />
+		</face>
+	</picture>
+	<picture name="00013_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="500" y="336" />
+			<right_eye x="376" y="346" />
+			<noose_tip x="428" y="382" />
+			<mouth_center x="440" y="458" />
+		</face>
+	</picture>
+	<picture name="00014_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="406" y="396" />
+			<right_eye x="266" y="398" />
+			<noose_tip x="326" y="482" />
+			<mouth_center x="352" y="540" />
+		</face>
+	</picture>
+	<picture name="00015_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="610" y="388" />
+			<right_eye x="498" y="388" />
+			<noose_tip x="546" y="444" />
+			<mouth_center x="546" y="512" />
+		</face>
+	</picture>
+	<picture name="00016_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="962" y="402" />
+			<right_eye x="874" y="408" />
+			<noose_tip x="932" y="454" />
+			<mouth_center x="930" y="496" />
+		</face>
+	</picture>
+	<picture name="00017_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="662" y="474" />
+			<right_eye x="556" y="470" />
+			<noose_tip x="604" y="538" />
+			<mouth_center x="608" y="594" />
+		</face>
+	</picture>
+	<picture name="00018_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="966" y="516" />
+			<right_eye x="850" y="514" />
+			<noose_tip x="912" y="576" />
+			<mouth_center x="906" y="628" />
+		</face>
+	</picture>
+	<picture name="00019_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="980" y="438" />
+			<right_eye x="890" y="442" />
+			<noose_tip x="960" y="478" />
+			<mouth_center x="948" y="536" />
+		</face>
+	</picture>
+	<picture name="00020_04" extension="png">
+		<face type="Frontal">
+			<left_eye x="716" y="406" />
+			<right_eye x="568" y="414" />
+			<noose_tip x="640" y="454" />
+			<mouth_center x="642" y="530" />
+		</face>
+	</picture>
+</directory>
